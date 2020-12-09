@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="verdadero_btn">Verdadero</string>
+    <string name="falso_btn">Falso</string>
+
+    <string name="correcto">Correcto!! </string>
+    <string name="incorrecto">Incorrecto!!</string>
+
+    <string name="pregunta_1">La capital de Ecuador es Quito</string>
+    <string name="pregunta_2">¿los hombres somos fieles?</string>
+    <string name="pregunta_3">¿El merengue es un baile o una comida?</string>
+    <string name="pregunta_4">¿Las mujeres dicen la verdad?</string>
+    <string name="pregunta_5">¿El idolosh del Ecuador es Barcelona?</string>
+
+</resources>
